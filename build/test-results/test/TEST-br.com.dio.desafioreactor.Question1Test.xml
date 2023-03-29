@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.dio.desafioreactor.Question1Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-29T16:51:10" hostname="DESKTOP-616PS7C" time="0.107">
+  <properties/>
+  <testcase name="incTest()" classname="br.com.dio.desafioreactor.Question1Test" time="0.107"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
